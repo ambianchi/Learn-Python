@@ -1,4 +1,4 @@
-We will be using GitHub for our class materials and exercises. Class materials will be stored on the Code Like a Girl CNY repository (repo)--remember to bookmark it! A repo is a space where you can store and access your files. Create your own repo to store your class notes, playtime exercises and any other projects you may work on. Follow the steps below to create your first repository:
+We will be using GitHub for our class materials and exercises. Class materials will be stored on the Code Like a Girl CNY repository (repo)--remember to bookmark it! A repo is a space where you can store and access your files. Create your own repo to store your class notes, playtime exercises and any other projects you might work on. Follow the steps below to create your first repository:
 
 
 1. Login to your GitHub account. If you have not yet created one, sign up and login.
